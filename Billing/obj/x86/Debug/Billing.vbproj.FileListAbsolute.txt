@@ -1,0 +1,89 @@
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\Customer.mdb
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\Billing.exe.config
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\Billing.exe
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\Billing.pdb
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\Billing.xml
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\AxShockwaveFlashObjects.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\stdole.dll
+C:\Visual_Studio_Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Data.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Customer.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.FormLaporan.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Laporan.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Pengumuman.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Rate.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Main_Menu.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Registrasi.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.signin.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Resources.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.Tagihan.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.DataTagihan.resources
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.vbproj.GenerateResource.cache
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.vbproj.CoreCompileInputs.cache
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.vbproj.CopyComplete
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.exe
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.xml
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.pdb
+C:\Visual_Studio_Project\Billing\obj\x86\Debug\Billing.vbprojAssemblyReference.cache
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\Customer.mdb
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\Billing.exe.config
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\Billing.exe
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\Billing.pdb
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\Billing.xml
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\stdole.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Data.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Customer.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.FormLaporan.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Laporan.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Pengumuman.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Rate.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Main_Menu.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Registrasi.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.signin.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Resources.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.Tagihan.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.DataTagihan.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.vbproj.GenerateResource.cache
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.vbproj.CoreCompileInputs.cache
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.vbproj.CopyComplete
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.exe
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.xml
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.pdb
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.vbprojAssemblyReference.cache
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.cetakPBB.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.PBB.resources
+C:\Users\Reinatt\Documents\VB Project\Billing\obj\x86\Debug\Billing.List_PBB.resources
